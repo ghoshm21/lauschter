@@ -31,7 +31,7 @@ Point it at a folder of audiobooks. It shows your categories and stories with th
 
 ## Download and install
 
-1. Go to **[Releases](https://github.com/ghoshm21/lauschter/releases)** and download the latest `Lauschter-x.y.z.apk`.
+1. Download the APK: **[Lauschter-0.4.0.apk](https://github.com/ghoshm21/lauschter/raw/main/apk/Lauschter-0.4.0.apk)** (it's also in the [`apk`](apk) folder of this repository and under [Releases](https://github.com/ghoshm21/lauschter/releases)).
 2. Copy it to your player or phone (USB file transfer, or straight into the `Download` folder).
 3. On the device, open the APK with a file manager (e.g. *Files by Google*). If asked, allow that app to *install unknown apps*.
 4. Tap **Install**, then **Open**.
